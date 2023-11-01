@@ -4,9 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software & Machine Learning Engineer
 ------------------------------------
 
-I am on a journey to do crazy things. Maybe build a rocket? Who knows. 
+I am on a journey to do crazy things. Maybe build a rocket? Who knows.
+
 I do have a philosophy which is a relentless pursuit of perfection and an unwavering commitment to simplicity. I believe that true innovation lies not just in what we add but in what we choose to leave out. It's about distilling complexity into elegance, transforming the way we live, work, and connect. 
+
 Thus, I am aimed to create tools that empower individuals, inspire creativity, and ultimately change the world. The journey is one of twists, turns, and triumphs, but every step I took until now has been a testament to the idea that the ones who are crazy enough to think they can change the world are the ones who do. 
+
 Let's connect, share and explore the infinite possibilities that lie in our hands and at the technology disposal. So, if you're passionate about machine learning, innovation, design, and the transformative power of technology, let's embark on a journey to shape the future together. 
 
 P.S. I am actually building a rocket.
